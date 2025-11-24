@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Roman! 👋
 
-<!--
-**RomanBukatov/RomanBukatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **.NET Developer** focused on building efficient and scalable applications.
+Currently crushing it in freelance, building tools for **Crypto Market Analysis** and **E-commerce Automation**.
 
-Here are some ideas to get you started:
+🛠 **Tech Stack:**
+- **Languages:** C#, SQL, Python (background), JavaScript
+- **Frameworks:** .NET 8/10, ASP.NET Core, WPF, Entity Framework
+- **Databases:** PostgreSQL, MS SQL
+- **Tools:** Git, Docker, VDS Administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Recent Highlights:**
+- Developed a Desktop App for **Funding Rates Monitoring** across 3 crypto exchanges.
+- Created AI-powered Auto-reply bot for Wildberries via API.
+- Built a secure Key Generator system.
+
+📫 **Contact Me:**
+- **Telegram:** [Твоя ссылка] (Это важно! Уводи клиентов сразу в личку)
+- **Email:** [Твоя почта]
