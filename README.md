@@ -15,5 +15,5 @@ Currently crushing it in freelance, building tools for **Crypto Market Analysis*
 - Built a secure Key Generator system.
 
 📫 **Contact Me:**
-- **Telegram:** [Твоя ссылка] (Это важно! Уводи клиентов сразу в личку)
-- **Email:** [Твоя почта]
+- **Telegram:** https://t.me/ScrewTheBlame
+- **Email:** bukatov.romain@yandex.ru
