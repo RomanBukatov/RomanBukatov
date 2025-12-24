@@ -23,7 +23,7 @@ My approach combines deep architectural knowledge with modern **AI-assisted deve
 
 #### 🌺 Multi-vendor Marketplace Platform (Flowwow Analog)
 *A high-performance e-commerce platform built on the bleeding edge tech stack.*
-- **Core:** .NET 10 (Preview) Backend + React Vite Frontend.
+- **Core:** .NET 10 Backend + React Vite Frontend.
 - **Architecture:** Modular Monolith designed for high scalability and complex domain logic.
 - **Features:** Advanced vendor management, catalog system, and real-time order processing.
 - **Status:** Active development.
@@ -35,13 +35,6 @@ My approach combines deep architectural knowledge with modern **AI-assisted deve
   - Secure **Admin Authorization** system.
   - **Interactive Analytics:** Charts & graphs for review statistics and manager performance.
   - **Custom AI Logic:** UI for fine-tuning AI prompts and settings per marketplace.
-
-#### 🛍️ [SaaS] AI Auto-Responder for Marketplaces (Ozon / Wildberries)
-*Enterprise-grade tool for automated customer feedback management.*
-- **Core:** .NET 8 Worker Service + OpenAI API integration.
-- **Features:** Sentiment analysis, context-aware replies, cross-sell recommendations.
-- **Architecture:** "Autopilot" mode with fault tolerance for API outages.
-- **Impact:** Reduces manager workload by 90%, increasing response speed to <5 mins.
 
 #### 📈 Crypto Funding Monitor & Sniper
 *High-frequency monitoring tool for arbitrage opportunities.*
