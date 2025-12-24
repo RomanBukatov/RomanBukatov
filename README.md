@@ -10,15 +10,31 @@ My approach combines deep architectural knowledge with modern **AI-assisted deve
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Core** | **.NET 10 (Preview) / 8**, C# 12, ASP.NET Core, WPF |
+| **Core** | **.NET 8 / 10**, C# 12 / 14, ASP.NET Core, WPF |
 | **Data & Storage** | PostgreSQL, EF Core, SQLite, Redis |
 | **Architecture** | Clean Architecture, Modular Monolith, Background Services |
+| **Frontend** | React, Vite, TypeScript, Tailwind CSS (или Ant Design) |
 | **DevOps & Cloud** | Docker, Linux (Ubuntu), Nginx, Git |
 | **AI Integration** | OpenAI API (GPT-4o), LLM-based Code Generation Workflows |
 
 ---
 
 ### 🚀 Featured Projects
+
+#### 🌺 Multi-vendor Marketplace Platform (Flowwow Analog)
+*A high-performance e-commerce platform built on the bleeding edge tech stack.*
+- **Core:** .NET 10 (Preview) Backend + React Vite Frontend.
+- **Architecture:** Modular Monolith designed for high scalability and complex domain logic.
+- **Features:** Advanced vendor management, catalog system, and real-time order processing.
+- **Status:** Active development.
+
+#### 📊 AI Auto-Responder Web Dashboard (SaaS)
+*Full-stack web solution for Ozon & Wildberries automation with analytics.*
+- **Stack:** .NET 8 Web API + React Vite (SPA).
+- **Features:**
+  - Secure **Admin Authorization** system.
+  - **Interactive Analytics:** Charts & graphs for review statistics and manager performance.
+  - **Custom AI Logic:** UI for fine-tuning AI prompts and settings per marketplace.
 
 #### 🛍️ [SaaS] AI Auto-Responder for Marketplaces (Ozon / Wildberries)
 *Enterprise-grade tool for automated customer feedback management.*
@@ -29,7 +45,7 @@ My approach combines deep architectural knowledge with modern **AI-assisted deve
 
 #### 📈 Crypto Funding Monitor & Sniper
 *High-frequency monitoring tool for arbitrage opportunities.*
-- **Core:** .NET 10 (High Performance), WebSocket real-time data processing.
+- **Core:** .NET 8, WebSocket real-time data processing.
 - **Features:** Monitors Funding Rates across Binance, Bybit, OKX.
 - **Performance:** Optimized for low latency (<100ms reaction time).
 
