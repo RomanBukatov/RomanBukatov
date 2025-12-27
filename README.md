@@ -51,7 +51,6 @@ My approach combines deep architectural knowledge with modern **AI-assisted deve
 
 ### ⚡ My Philosophy
 > "I don't just write code; I build systems that save money and generate profit."
-> By leveraging **AI agents** for routine coding and architecture validation, I focus on business logic and stability.
 
 ---
 
