@@ -15,7 +15,7 @@
 | **Архитектура** | Clean Architecture, Modular Monolith, Background Services |
 | **Frontend** | React, Vite, TypeScript, Tailwind CSS (или Ant Design) |
 | **DevOps & Cloud** | Docker, Linux (Ubuntu), Nginx, Git |
-| **AI Интеграции** | OpenAI API (GPT-4o), Генерация кода через LLM |
+| **AI Интеграции** | OpenAI API, Генерация кода через LLM |
 
 ---
 
